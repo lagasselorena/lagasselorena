@@ -12,7 +12,7 @@
 
 Estudante de **Engenharia de Software** apaixonada por tecnologia, programação e desenvolvimento.
 
-Atualmente, estou aprendendo novas tecnologias e transformando meus conhecimentos em projetos, buscando evoluir um pouco a cada dia. ✨
+Atualmente, estou aprendendo novas tecnologias e transformando meus conhecimentos em projetos, buscando evoluir um pouco a cada dia. 
 
 ---
 
@@ -20,7 +20,7 @@ Atualmente, estou aprendendo novas tecnologias e transformando meus conhecimento
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,html,css,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=java,phyton,html,css,mysql" />
 
 </div>
 
