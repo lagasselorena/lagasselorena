@@ -1,59 +1,71 @@
 <div align="center">
 
-# Olá, eu sou a Lorena! 👩🏻‍💻
+# <span style="color:#E8A0BF;">Olá, eu sou a Lorena! 👩🏻‍💻</span>
 
-### Software Engineering Student · Developer in progress 🌷
+### <span style="color:#E8A0BF;">Software Engineering Student · Developer in progress 🌷</span>
 
 </div>
 
 ---
 
-### Sobre mim
+## <span style="color:#E8A0BF;">Sobre mim</span>
+
+<span style="color:#E8A0BF;">
 
 Estudante de **Engenharia de Software** apaixonada por tecnologia, programação e desenvolvimento.
 
 Atualmente, estou aprendendo novas tecnologias e transformando meus conhecimentos em projetos, buscando evoluir um pouco a cada dia. 
 
+</span>
+
 ---
 
-### Tecnologias & Ferramentas
+## <span style="color:#E8A0BF;">Tecnologias & Ferramentas</span>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,phyton,html,css,mysql" />
+<img src="https://skillicons.dev/icons?i=java,python,html,css,mysql" />
 
 </div>
 
 ---
 
-### O que estou estudando
+## <span style="color:#E8A0BF;">O que estou estudando</span>
 
-- Java & Programação Orientada a Objetos
+<span style="color:#E8A0BF;">
+
+- Java & Spring Boot
 - Estruturas de Dados e Algoritmos
 - Banco de Dados
-- Desenvolvimento de Software
 - Desenvolvimento Web
 - Git & GitHub
-- Engenharia de Software
+
+</span>
 
 ---
 
-### Vamos nos conectar?
+## <span style="color:#E8A0BF;">Vamos nos conectar?</span>
 
 <a href="https://github.com/lagasselorena">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-E8A0BF?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/lorenalagasse">
-  <img src="https://img.shields.io/badge/LinkedIn-E8A0BF?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="SEU_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-E8A0BF?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <br><br>
 
-> Obrigada por visitar meu perfil! 💗
+<blockquote>
+<span style="color:#E8A0BF;">Obrigada por visitar meu perfil! 💗</span>
+</blockquote>
 
 <div align="center">
 
+<span style="color:#E8A0BF;">
+
 **Code · Learn · Create · Repeat**
+
+</span>
 
 </div>
