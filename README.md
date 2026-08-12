@@ -50,7 +50,7 @@ Atualmente, estou aprendendo novas tecnologias e transformando meus conhecimento
 <img src="https://img.shields.io/badge/GitHub-E8A0BF?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="SEU_LINKEDIN">
+<a href="https://www.linkedin.com/in/lorenalagasse/">
 <img src="https://img.shields.io/badge/LinkedIn-E8A0BF?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
