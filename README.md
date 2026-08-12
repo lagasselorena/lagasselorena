@@ -12,9 +12,7 @@
 
 <span style="color:#E8A0BF;">
 
-Estudante de **Engenharia de Software** apaixonada por tecnologia, programação e desenvolvimento.
-
-Atualmente, estou aprendendo novas tecnologias e transformando meus conhecimentos em projetos, buscando evoluir um pouco a cada dia. 
+Estudante de TI com interesse em desenvolvimento de software. Gosto de aprender na prática, resolver problemas e evoluir através de projetos reais. 👩‍💻
 
 </span>
 
