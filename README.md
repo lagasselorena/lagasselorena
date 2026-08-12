@@ -43,11 +43,6 @@ Estudante de TI com interesse em desenvolvimento de software. Gosto de aprender 
 ---
 
 ## <span style="color:#E8A0BF;">Vamos nos conectar?</span>
-
-<a href="https://github.com/lagasselorena">
-<img src="https://img.shields.io/badge/GitHub-E8A0BF?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
 <a href="https://www.linkedin.com/in/lorenalagasse/">
 <img src="https://img.shields.io/badge/LinkedIn-E8A0BF?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
