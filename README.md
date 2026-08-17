@@ -36,7 +36,6 @@ Estudante de TI com interesse em desenvolvimento de software. Gosto de aprender 
 - Estruturas de Dados e Algoritmos
 - Banco de Dados
 - Desenvolvimento Web
-- Git & GitHub
 
 </span>
 
