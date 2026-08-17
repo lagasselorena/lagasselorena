@@ -22,7 +22,7 @@ Estudante de TI com interesse em desenvolvimento de software. Gosto de aprender 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,html,css,mysql" />
+<img src="https://skillicons.dev/icons?i=java,python,html,css,mysql,figma" />
 
 </div>
 
